@@ -215,14 +215,5 @@ int main(){
             break;
         }
     }
-    // list1.addAtBeg(50);
-    // list1.addAtEnd(60);
-    // list1.display();
-    // list1.removeAtBeg();
-    // list1.addAtEnd(70);
-    // list1.addAtEnd(80);
-    // list1.addAtEnd(90);
-    // list1.addAt(1,10);
-    // list1.removeAt(3);
-    // list1.display();
+ 
 }
